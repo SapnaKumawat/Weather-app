@@ -1,0 +1,16 @@
+
+.sunny_day{
+    background-image: url('./assests/sunny_bg.jpg');
+}
+
+.rain_day{
+    background-image: url('./assests/rainy_bg.jpg');
+}
+
+.cloud_day{
+    background-image: url('./assests/clouds_bg.jpg');
+}
+
+.thunder_day{
+    background-image: url('./assests/thunder_bg.jpg');
+}
